@@ -30,16 +30,3 @@ To identify patterns in environmental indicators and use regression models to pr
 ---
 
 ## 📁 Project Structure
-
-environmental-ml/
-│
-├── data/                   # (Optional) Small sample dataset or link in README
-├── notebooks/              # Jupyter notebooks with EDA + modeling
-├── src/                    # Scripts for preprocessing, modeling, etc.
-│   ├── data_processing.py
-│   ├── model_training.py
-│   └── evaluation.py
-├── models/                 # Saved models (.pkl or .joblib if applicable)
-├── README.md
-├── requirements.txt
-└── .gitignore
